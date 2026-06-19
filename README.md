@@ -27,12 +27,12 @@ All data is freely available online, under open licenses.
 - R: Version 4.5.3 (2026-03-11) -- "Reassured Reassurer"
 - Packages:
 
- -> *sf:* Used for encoding, manipulating, and analysing GIS/spatial data. This package is essential for the type of analysis I have conducted here.
- -> *dplyr:* Another essential data manipulation library, essential to basically any data analysis/data science project conducted within R in my opinion.
- -> *ggplot2:* Used for visualisation of data analysis outputs; very common for visualising the models used to process data within R.
- -> *tidyr:* Data cleaning library. Data, especially at these quantities, is messy; you'll want something like tidyr to clean the data at hand to properly analyse the data.
- -> *readxl:* Used to read, and import the data from a .xlsx (Excel file). Used to import the data from the NZDep2023 data set.
- -> *tmap:* GIS/spatial data visualisation library. Similar to ggplot2 in function, and again, essential to GIS data analysis.
- -> *here:* Simplfies file referencing, and building paths to directories. Not essential, but helpful for making finding files easier within the script.
+ - *sf:* Used for encoding, manipulating, and analysing GIS/spatial data. This package is essential for the type of analysis I have conducted here.
+ -  *dplyr:* Another essential data manipulation library, essential to basically any data analysis/data science project conducted within R in my opinion.
+ -   *ggplot2:* Used for visualisation of data analysis outputs; very common for visualising the models used to process data within R.
+ -  *tidyr:* Data cleaning library. Data, especially at these quantities, is messy; you'll want something like tidyr to clean the data at hand to properly analyse the data.
+ -  *readxl:* Used to read, and import the data from a .xlsx (Excel file). Used to import the data from the NZDep2023 data set.
+ -  tmap:* GIS/spatial data visualisation library. Similar to ggplot2 in function, and again, essential to GIS data analysis.
+ -   *here:* Simplfies file referencing, and building paths to directories. Not essential, but helpful for making finding files easier within the script.
 
   
