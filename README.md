@@ -25,7 +25,7 @@ All data is freely available online, under open licenses.
 **Stuff I used:**
 
 - R: Version 4.5.3 (2026-03-11) -- "Reassured Reassurer"
-- Packages:
+- **Packages:**
 
  - *sf:* Used for encoding, manipulating, and analysing GIS/spatial data. This package is essential for the type of analysis I have conducted here.
  -  *dplyr:* Another essential data manipulation library, essential to basically any data analysis/data science project conducted within R in my opinion.
